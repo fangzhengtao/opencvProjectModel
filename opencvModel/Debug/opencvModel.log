@@ -1,0 +1,12 @@
+﻿  main.cpp
+e:\project\opencvmodel\opencvmodel\main.cpp(12): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\project\opencvmodel\opencvmodel\main.cpp(13): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\project\opencvmodel\opencvmodel\main.cpp(14): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\project\opencvmodel\opencvmodel\main.cpp(17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\project\opencvmodel\opencvmodel\main.cpp(18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\project\opencvmodel\opencvmodel\main.cpp(19): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\project\opencvmodel\opencvmodel\main.cpp(26): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\project\opencvmodel\opencvmodel\main.cpp(36): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\project\opencvmodel\opencvmodel\main.cpp(37): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  opencvModel.vcxproj -> E:\project\opencvModel\Debug\opencvModel.exe
+  opencvModel.vcxproj -> E:\project\opencvModel\Debug\opencvModel.pdb (Partial PDB)
