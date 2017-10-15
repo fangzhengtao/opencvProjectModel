@@ -2,6 +2,7 @@
 #include <iostream>
 using namespace cv;
 using namespace std;
+// ͸�ӱ任 http://blog.csdn.net/df865017/article/details/45772095
 int main()
 {
 	Mat img = imread("boy.png");
